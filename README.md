@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Sadik
 - 👀 I’m interested in Cloud, AI, Education
-- 🌱 I’m currently learning several AI projects
-- 💞️ I’m looking to collaborate on innovative AI solutions, cloud infrastructure, or educational technologies that have an impact
+- 🌱 I’m currently working on several AI projects on the Cloud
+- 🎓 Enrolled in a postgraduate program at Texas McCombs, in Artificial Intelligence and Machine Learning
+- 💞️ Looking to collaborate on innovative AI solutions, cloud infrastructure, educational technologies that have an impact
 - 📫 How to reach me: https://www.doyoubuzz.com/Sadik-Bulut
 
 <!---
