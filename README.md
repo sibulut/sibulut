@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sadik
 - 👀 I’m interested in Cloud, AI, Education
 - 🌱 I’m currently learning several AI projects
-- 💞️ I’m looking to collaborate on innovative AI solutions, cloud infrastructure, or educational technologies that enhance learning experiences
+- 💞️ I’m looking to collaborate on innovative AI solutions, cloud infrastructure, or educational technologies that have an impact
 - 📫 How to reach me: https://www.doyoubuzz.com/Sadik-Bulut
 
 <!---
